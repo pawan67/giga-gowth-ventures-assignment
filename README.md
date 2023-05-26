@@ -28,6 +28,11 @@ Passport JS
 
 ````
 
+## Screenshots
+![Screenshot](https://i.imgur.com/eHhht5d.png)
+![Screenshot](https://i.imgur.com/1uuxYKs.png)
+![Screenshot](https://i.imgur.com/7uY5NE5.png)
+
 I have included all the environment variables in the .env file which is included in the repo for the ease of use and testing
 
 
