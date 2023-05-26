@@ -1,4 +1,4 @@
- # Asignment
+ # Assignment
 
 ## Description
 This is a fullstack application which fetches stock details for a particular company of a particular date and diplays it on table and let the user share it on email and whatsapp 
